@@ -15,7 +15,7 @@ This project is a relational database designed to manage movie-related data and 
 ## Project Structure
 
 * **schema.sql:** The SQL schema file to create the database structure.
-* **Data Export:** The exported database (if included) for direct import.
+* **movies.database.sql:** The exported code and database for direct import.
 * **README.md:** Documentation for the project.
 
 ## Database Tables
